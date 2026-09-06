@@ -4,15 +4,17 @@
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.12%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart Version](https://img.shields.io/badge/Dart-3.0%2B-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![UI Screenshots](https://img.shields.io/badge/UI_Screenshots-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1aNsp7QHSfU_PuNKu7_MLnp3y81xkrLWx)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Google_Drive-EA4335?style=for-the-badge&logo=googleplay&logoColor=white)](https://drive.google.com/drive/folders/1Cj_L3Y8ew08cgW86DZQ6vwp4kLr2EPQj)
 [![Platform](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-blueviolet?style=for-the-badge&logo=googleplay&logoColor=white)](https://flutter.dev/multi-platform)
 [![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/Sakib137/CoiNova/pulls)
 
 <p align="center">
   <b>A state-of-the-art, non-custodial Web3 cryptocurrency portfolio tracker, multi-chain DEX aggregator terminal, and autonomous AI-powered DeFi intelligence suite built with Flutter.</b>
 </p>
 
 <p align="center">
+  <a href="#-ui-screenshots--demo-video">Screenshots & Video</a> •
   <a href="#-key-features">Key Features</a> •
   <a href="#-design--ui-philosophy">Design System</a> •
   <a href="#-app-architecture">Architecture</a> •
@@ -24,6 +26,26 @@
 ---
 
 </div>
+
+## 📸 UI Screenshots & Demo Video
+
+Explore CoiNova's obsidian cyber-luxe interface, fluid micro-interactions, and trading terminal via the official Google Drive showcase:
+
+<div align="center">
+
+| 🖼️ UI Screenshots Gallery | 🎥 Video Walkthrough Demo |
+| :---: | :---: |
+| [![View UI Screenshots](https://img.shields.io/badge/Browse-UI_Screenshots-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1aNsp7QHSfU_PuNKu7_MLnp3y81xkrLWx) | [![Watch Demo Video](https://img.shields.io/badge/Watch-Full_App_Demo-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/drive/folders/1Cj_L3Y8ew08cgW86DZQ6vwp4kLr2EPQj) |
+| 🔗 **[Open Screenshots Folder](https://drive.google.com/drive/folders/1aNsp7QHSfU_PuNKu7_MLnp3y81xkrLWx)** | 🔗 **[Open Video Demo Folder](https://drive.google.com/drive/folders/1Cj_L3Y8ew08cgW86DZQ6vwp4kLr2EPQj)** |
+
+</div>
+
+> [!TIP]
+> **Showcase Highlights Available in Drive:**
+> - **📸 Screenshots Folder**: High-resolution captures of the Welcome Onboarding flow, Obsidian Home Dashboard with Bento Cards, Nova AI Copilot intelligence sheet, Market Explorer & Fear/Greed Meter, Interactive Bezier Chart with crosshair scrubbing, DEX Multi-Hop Swap Terminal, Slide-to-Confirm & Confetti Success modal, Portfolio Allocation Donut, and Native QR Send/Receive.
+> - **🎥 Video Demo Folder**: Complete end-to-end recording demonstrating 60fps animations, real-time live ticker price updates, responsive bottom sheet modals, chart interactions, and simulated decentralized swaps.
+
+---
 
 ## 📖 Overview
 
